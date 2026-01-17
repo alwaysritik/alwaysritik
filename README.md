@@ -19,7 +19,7 @@
 <li>
 <b>Name:</b> Ritik Mishra</li>
 <li>
-<b>Hobbies:</b> Anime & Doing Random Things
+<b>Hobbies:</b> Anime, Webseries & Doing Random Things
 </li>
 <li>
 <b>Loves:</b> Developing passionate fullstack web applications and occasionally backend projects
