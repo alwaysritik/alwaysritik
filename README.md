@@ -17,9 +17,9 @@
 <div>
 <h2 align="center">About me (~˘▾˘)~</h2>
 <li>
-<b>Name:</b> Thai Pham</li>
+<b>Name:</b> Ritik Mishra</li>
 <li>
-<b>Hobbies:</b> Anime & Coding
+<b>Hobbies:</b> Anime & Doing Random Things
 </li>
 <li>
 <b>Loves:</b> Developing passionate fullstack web applications and occasionally backend projects
@@ -32,15 +32,15 @@
   </a>
 </p>
 <br>
-<h2 align="center"><a href="https://sorrowinapril.vercel.app/">
+<h2 align="center"><a href="https://t.me/Non1142">
    Contact me (>人<)
 </a>
   
  </h2>
   
 <p align="center"> 
-  <a href="mailto:thaiphm0303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
   </p>
 
  
