@@ -28,7 +28,7 @@
 <h2 align="center">Knowledgesᕦ(ò_óˇ)ᕤ</h2>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,firebase,supabase,py,cpp,java,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,mongodb,firebase,supabase,py,java,git,vscode" />
   </a>
 </p>
 <br>
