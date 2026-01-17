@@ -8,4 +8,8 @@
 
 
 <p align="center">
-<a href=""><img align="left" width="100" src="./images/cuite.png"></a>
+  <a href="https://t.me/proyato"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+    </p>
+<p align="center">
+
+</p>
