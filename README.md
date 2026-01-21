@@ -22,7 +22,7 @@
 <b>Hobbies:</b> Anime, Webseries & Doing Random Things
 </li>
 <li>
-<b>Loves:</b> Developing passionate fullstack web applications and occasionally backend projects
+<b>Loves:</b>procrastination
 </li>
 <br>
 <h2 align="center">Knowledgesᕦ(ò_óˇ)ᕤ</h2>
