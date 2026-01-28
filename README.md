@@ -25,7 +25,7 @@
 <b>Loves:</b> procrastination
 </li>
 <br>
-<h2 align="center">Knowledgesᕦ(ò_óˇ)ᕤ</h2>
+<h2 align="center">Knowledges</h2>
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="AI" />
